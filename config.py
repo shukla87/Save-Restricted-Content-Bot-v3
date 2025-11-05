@@ -23,8 +23,8 @@ YTUB_COOKIES = """
 API_ID       = os.getenv("API_ID", "21834860")
 API_HASH     = os.getenv("API_HASH", "e4acef545ba34ee3fa5c511b38644647")
 BOT_TOKEN    = os.getenv("BOT_TOKEN", "8017027472:AAGyYDKa1sku_k_drX3spfn")
-MONGO_DB     = os.getenv("MONGO_DB", "mongodb+srv://divyanshshukla2239_db_user:34tOoKfBFlX4U1Lj@cluster0.zzndimq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DB_NAME      = os.getenv("DB_NAME", "divyanshshukla2239_db_user")
+MONGO_DB     = os.getenv("MONGO_DB", mongodb+srv://divyanshshukla5375_db_user:1kZ2dsVTktdMljpr@cluster0.lo5qk5v.mongodb.net/?appName=Cluster0"")
+DB_NAME      = os.getenv("DB_NAME", "divyanshshukla5375_db_user")
 
 # ─── OWNER / CONTROL SETTINGS ───────────────────────────────────────────────────
 OWNER_ID     = list(map(int, os.getenv("OWNER_ID", "6334323103").split()))  # space-separated list
@@ -76,4 +76,5 @@ P0 = {
 # ════════════════════════════════════════════════════════════════════════════════
 # ░ DEVGAGAN
 # ════════════════════════════════════════════════════════════════════════════════
+
 
